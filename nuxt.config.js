@@ -25,7 +25,7 @@ export default {
         '~/assets/js/main.js'
     ],
     head: {
-        title: 'Eleven – Self-taught web developer.',
+        title: 'Rakshitha',
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
