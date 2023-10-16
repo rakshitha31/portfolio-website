@@ -6,6 +6,6 @@
 <a href="https://github.com/rakshitha31" target="_blank" class="generalBtn rounded-full mr-2 mt-4"><p class="generalBtnText p-3 smallText opacity-80">GitHub</p></a>
 <a href="https://www.linkedin.com/in/nagarakshitha-b-r/" target="_blank" class="generalBtn rounded-full mr-2 mt-4"><p class="generalBtnText p-3 smallText opacity-80">LinkedIn</p></a>
 <br/>
-<iframe class="bg-grey-700" src="https://drive.google.com/file/d/1VjekYdz7RRi2BeKXsTDfZ54125PSX9wk/view?usp=sharing" width="700" height="600" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1VjekYdz7RRi2BeKXsTDfZ54125PSX9wk/preview" width="640" height="480" allow="autoplay"></iframe>
 </div>
 </template>
